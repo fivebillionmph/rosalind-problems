@@ -1,2 +1,2 @@
 Make: src/*
-	gcc -o dist/main src/main.c
+	gcc -std=c99 -o dist/main src/main.c
